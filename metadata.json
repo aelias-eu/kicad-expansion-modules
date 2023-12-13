@@ -3,27 +3,27 @@
     "name": "aelias Expansion modules",
     "description": "This addon contains the Symbols and Footprin for various expansion modules that I did not found in the wildernes of the Internet",
     "description_full": "This addon contains the Symbols and Footprint. \n The 16-bit IO expander based on PCF8575",
-    "identifier": "com.github.aelias.kicad-libraries",
+    "identifier": "com.github.aelias.kicad-expansion-modules",
     "type": "library",
     "author": {
         "name": "Andrej Elias",
         "contact": {
-            "web": "https://github.com/espressif/kicad-libraries"
+            "web": "https://github.com/aelias-eu/kicad-expansion-modules"
         }
     },
     "maintainer": {
         "name": "Andrej Elias",
         "contact": {
-            "web": "https://github.com/espressif/kicad-libraries"
+            "web": "https://github.com/aelias-eu/kicad-expansion-modules"
         }
     },
     "license": "CC-BY-SA-4.0",
     "resources": {
-        "homepage": "https://github.com/espressif/kicad-libraries"
+        "homepage": "https://github.com/aelias-eu/kicad-expansion-modules"
     },
     "versions": [
         {
-            "version": "1.0.0",
+            "version": "0.0.1",
             "status": "stable",
             "kicad_version": "7.0.0"
         }
