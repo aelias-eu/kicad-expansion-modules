@@ -6,7 +6,7 @@
     (property "Value" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "expansion-modules:16-bit IO Expander" (at 0 0 0)
+    (property "Footprint" "PCM_expansion-modules:16-bit IO Expander" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.tinytronics.nl/shop/index.php?route=product/product/get_file&file=3903/pcf8575.pdf" (at 0 0 0)

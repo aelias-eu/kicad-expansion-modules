@@ -17,14 +17,14 @@
             "web": "https://github.com/aelias-eu/kicad-expansion-modules"
         }
     },
-    "license": "CC-BY-SA-4.0",
+    "license": "CC0-1.0",
     "resources": {
         "homepage": "https://github.com/aelias-eu/kicad-expansion-modules"
     },
     "versions": [
         {
             "version": "0.0.1",
-            "status": "stable",
+            "status": "development",
             "kicad_version": "7.0.0"
         }
     ]
